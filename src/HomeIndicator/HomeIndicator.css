@@ -1,0 +1,19 @@
+.home-indicator,
+.home-indicator * {
+  box-sizing: border-box;
+}
+.home-indicator {
+  width: 152px;
+  height: 34px;
+  position: relative;
+}
+.home-indicator .home-indicator2 {
+  background: #ffffff;
+  border-radius: 100px;
+  width: 152px;
+  height: 5px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  bottom: 8px;
+}

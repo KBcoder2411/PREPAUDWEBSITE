@@ -1,0 +1,23 @@
+.screen-16-pro,
+.screen-16-pro * {
+  box-sizing: border-box;
+}
+.screen-16-pro {
+  border-radius: 58px;
+  height: 874px;
+  position: relative;
+  overflow: hidden;
+}
+.screen-16-pro .home-indicator-instance {
+  position: absolute !important;
+  right: 0px !important;
+  left: 0px !important;
+  bottom: 0px !important;
+  width: unset !important;
+}
+.screen-16-pro .status-bar-16-pro-instance {
+  position: absolute !important;
+  right: 0px !important;
+  left: 0px !important;
+  top: 0px !important;
+}

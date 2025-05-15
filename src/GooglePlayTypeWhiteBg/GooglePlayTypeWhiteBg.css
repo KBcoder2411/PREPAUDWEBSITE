@@ -1,0 +1,22 @@
+.google-play-type-white-bg,
+.google-play-type-white-bg * {
+  box-sizing: border-box;
+}
+.google-play-type-white-bg {
+  flex-shrink: 0;
+  width: 144px;
+  height: 41.6px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1.25, -1.25);
+}
+.google-play-type-white-bg .group {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
